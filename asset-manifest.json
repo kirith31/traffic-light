@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trafficlight/static/css/main.eaf5abc7.css",
-    "main.js": "/trafficlight/static/js/main.ddfdd43c.js",
-    "static/js/453.74672097.chunk.js": "/trafficlight/static/js/453.74672097.chunk.js",
-    "index.html": "/trafficlight/index.html",
-    "main.eaf5abc7.css.map": "/trafficlight/static/css/main.eaf5abc7.css.map",
-    "main.ddfdd43c.js.map": "/trafficlight/static/js/main.ddfdd43c.js.map",
-    "453.74672097.chunk.js.map": "/trafficlight/static/js/453.74672097.chunk.js.map"
+    "main.css": "/traffic-light/static/css/main.eaf5abc7.css",
+    "main.js": "/traffic-light/static/js/main.9b7cbee0.js",
+    "static/js/453.74672097.chunk.js": "/traffic-light/static/js/453.74672097.chunk.js",
+    "index.html": "/traffic-light/index.html",
+    "main.eaf5abc7.css.map": "/traffic-light/static/css/main.eaf5abc7.css.map",
+    "main.9b7cbee0.js.map": "/traffic-light/static/js/main.9b7cbee0.js.map",
+    "453.74672097.chunk.js.map": "/traffic-light/static/js/453.74672097.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaf5abc7.css",
-    "static/js/main.ddfdd43c.js"
+    "static/js/main.9b7cbee0.js"
   ]
 }
